@@ -17,3 +17,22 @@ for i in range (n):
     print("Invalid Choice.")
 print("\n")
 print("Net A/c. Balance : ",bal)
+
+
+
+
+
+#Output
+
+#Enter Number of transactions : 4
+
+
+#Transaction Format for Widrawal : W 200 and for Deposit : D 200 
+
+#Enter transaction in format : D 300
+#Enter transaction in format : D 300
+#Enter transaction in format : W 200
+#Enter transaction in format : D 100
+
+
+#Net A/c. Balance :  500
