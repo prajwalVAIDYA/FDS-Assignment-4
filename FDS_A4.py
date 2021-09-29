@@ -1,6 +1,7 @@
 bal=0
 n=int(input("Enter Number of transactions : "))
-print("Transaction Format for Widrawal : W 200 and for Deposit : D 200 ")
+print("\n")
+print("Transaction Format for Widrawal : W 200 and for Deposit : D 200 \n")
 for i in range (n):
   x=input("Enter transaction in format : ")
   tran=x.split(" ")
